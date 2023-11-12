@@ -17,3 +17,12 @@ catch X as much times as you can and when you finish press Q on keyboard and see
 <img width="638" alt="2" src="https://github.com/Roeyx/Navigation/assets/137524228/a6a97701-310e-4527-a720-0c05bbe79c6f">
 
 
+How to Run:
+1. download x86 emulator, I reccomend using DOSBOX
+2. stimulate Assembly for intel 8086 using freedos
+3. run the following commands:
+4. CD MASM
+5. CD BIN
+6. ml /Zm Navigation.asm
+7. Navigation.exe
+8. play!
