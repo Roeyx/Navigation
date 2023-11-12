@@ -3,7 +3,8 @@
 This is the Navigation game!
 
 
-![Image](https://github.com/users/Roeyx/projects/1/assets/137524228/e5d700d2-1ff2-4855-8ddb-86165c98f793)
+<img width="636" alt="1" src="https://github.com/Roeyx/Navigation/assets/137524228/1d2d1aa5-9d74-457b-a0fe-a5d14d0a8ee3">
+
 
 
 The rules:
@@ -14,6 +15,6 @@ d for →
 a for ←
 catch X as much times as you can and when you finish press Q on keyboard and see your score
 
+<img width="638" alt="2" src="https://github.com/Roeyx/Navigation/assets/137524228/a6a97701-310e-4527-a720-0c05bbe79c6f">
 
-![Image](https://github.com/users/Roeyx/projects/1/assets/137524228/ad9e5602-7f5a-45e1-9806-1d1fee3cb40e)
 
