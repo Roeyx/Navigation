@@ -1,4 +1,3 @@
-# Navigation
 # Game
 This is the Navigation game!
 
