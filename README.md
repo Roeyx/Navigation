@@ -24,7 +24,7 @@ catch X as much times as you can and when you finish press Q on keyboard and see
 
 How to Run:
 1. download x86 emulator, I reccomend using DOSBOX
-2. stimulate Assembly for intel 8086 using freedos
+2. stimulate Assembly for intel 8086 using FreeDos
 3. run the following commands:
 4. CD MASM
 5. CD BIN
